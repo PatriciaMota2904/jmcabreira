@@ -28,6 +28,8 @@
 
 <img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pytorch.svg" />
 
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
@@ -40,6 +42,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+* [Buying a car as a Data Scientist](https://towardsdatascience.com/buying-a-car-as-a-data-scientist-5a2f9f340292) 
+* [Using Data Science for Customer Acquisition](https://towardsdatascience.com/using-data-science-for-customer-acquisition-2001525792f)
+* [Tuning a Model’s Hyperparameters and Aiming for a Specific Metric in Accordance with the Business Scenario](https://towardsdatascience.com/tuning-a-models-hyperparameters-and-aiming-for-a-specific-metric-in-accordance-with-the-business-3c47d534ed3b)
+
 
 
 
